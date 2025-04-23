@@ -1,1 +1,17 @@
-key script
+{
+
+  "secretCode": "v2gen1",
+
+  "description": "RaflieSpecterV2Gen1", 
+
+  "lastUpdated": "-",
+
+  "author": "Raflie", 
+
+  "status": "Active",
+
+  "license": "MIT",
+
+  "version": "2.0"
+
+}
